@@ -2,7 +2,6 @@ opencv_python
 albumentations==0.5.1 --no-binary=imgaug,albumentations
 ray>=1.0.1
 einops==0.3.0
-kornia==0.4.1
 loguru==0.5.3
 yacs>=0.1.8
 autopep8
@@ -14,10 +13,11 @@ h5py
 pytorch-lightning>=1.7
 torchmetrics # version problem: https://github.com/NVIDIA/DeepLearningExamples/issues/1113#issuecomment-1102969461
 joblib>=1.0.1
-opencv-python
 numpy
 tqdm
-kornia
+kornia==0.7.4
 kornia-rs
 kornia_moons
 certifi
+open3d
+pycolmap
