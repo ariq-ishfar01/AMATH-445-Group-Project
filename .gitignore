@@ -1,1 +1,11 @@
 loftr-env/
+combined_pipeline/cecum_t1_a/
+combined_pipeline/rgb/
+combined_pipeline/colmap_workspace
+cecum_t1_a
+cecum_t2_a
+
+old_files
+depth-anything-3
+*.pth
+*.pth
