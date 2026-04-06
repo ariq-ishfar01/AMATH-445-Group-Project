@@ -2,7 +2,7 @@ This GitHub repository serves as part of the team's submission to AMATH 445 (Win
 Each implementation has been uploaded as a python notebook with title format: `Model_name - Group Member`.
 
 Models implemented:
-* Deep Anyything V3
+* Deep Anything V3
 * MiDaS DPT_Hybrid
 * GLPN
 
